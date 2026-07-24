@@ -113,7 +113,7 @@ C:\Program Files\Adobe\Adobe After Effects [VERSION]\Support Files\Scripts\Scrip
 
 **NON-COMMERCIAL USE ONLY - NO MODIFICATIONS**
 
-© 2024 [Ваше Имя]. Все права защищены.
+© 2026 Vladimir Vladimirovich Kachimov. Все права защищены.
 
 ### ✅ Разрешено:
 - Личное использование в некоммерческих проектах
