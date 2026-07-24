@@ -24,9 +24,17 @@
 // THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 // ============================================================================
 
+var SCRIPT_VERSION = "4.1";
+var SCRIPT_AUTHOR = "Vladimir Vladimirovich Kachimov";
+var LICENSE_TYPE = "NON-COMMERCIAL - NO MODIFICATIONS";
 
 (function() {
     
+	if (typeof SCRIPT_VERSION === "undefined" || typeof SCRIPT_AUTHOR === "undefined") {
+        alert("ОШИБКА: Скрипт был изменен или поврежден.\nИспользование модифицированных версий запрещено лицензией.\n\nПожалуйста, скачайте оригинальную версию.");
+        return;
+    }
+	
     // Create window
     var win = new Window("palette", "Relink CC Files", undefined, {resizeable: true});
     win.orientation = "column";
