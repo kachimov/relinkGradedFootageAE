@@ -2,6 +2,8 @@
 
 Автоматический скрипт для замены исходных видеофайлов на покрашенные (грейденные) версии в Adobe After Effects. Идеально подходит для пайплайна: монтаж в AE (Premiere) → грейдинг в DaVinci Resolve → возврат в AE.
 
+<img width="348" height="514" alt="reimg" src="https://github.com/user-attachments/assets/2dd2743c-8b87-4ba2-9817-2fc5e4343ecb" />
+
 ## ✨ Возможности
 
 - 🎯 **Автоматическая перелинковка** - заменяет файлы по суффиксу (например, `video.mp4` → `video-cc.mp4`)
