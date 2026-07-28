@@ -22,10 +22,10 @@
 2. Скопируйте его в папку скриптов After Effects:
 
 **Windows:**
-C:\Program Files\Adobe\Adobe After Effects [VERSION]\Support Files\Scripts\ScriptUI Panels\
+```C:\Program Files\Adobe\Adobe After Effects [VERSION]\Support Files\Scripts\ScriptUI Panels\```
 
 **macOS:**
-/Applications/Adobe After Effects [VERSION]/Scripts/ScriptUI Panels/
+```/Applications/Adobe After Effects [VERSION]/Scripts/ScriptUI Panels/```
 
 
 3. Перезапустите After Effects
